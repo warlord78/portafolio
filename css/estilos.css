@@ -3,12 +3,14 @@ body
     color:blue;
     font-family: Verdana;
     font-weight: bold;
+    size: 5px;
    }
 
 #contenido-pr{
 	margin: 0;
 	padding: 10px;
-    border-color: 10px;
+    border-color: green;
+
 
 }
 
