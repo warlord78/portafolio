@@ -1,7 +1,20 @@
 body
 {   
     color:blueviolet;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    font-family: Verdana;
+   }
+
+#contenido-pr{
+	margin: 0;
+	padding: 10px;
+
+    border-color: 10px;
+
+}
+
+#contenido-pr img{
+    margin: 0;
+    padding: 10px;
+	width: 400px;
+	height: auto;
 }
