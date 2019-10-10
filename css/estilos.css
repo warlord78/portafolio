@@ -1,13 +1,13 @@
 body
 {   
-    color:blueviolet;
+    color:blue;
     font-family: Verdana;
+    font-weight: bold;
    }
 
 #contenido-pr{
 	margin: 0;
 	padding: 10px;
-
     border-color: 10px;
 
 }
