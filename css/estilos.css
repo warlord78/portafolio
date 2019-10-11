@@ -6,6 +6,12 @@ body
     size: 5px;
    }
 
+
+header #logo {
+    width:70px;
+    vertical-align: middle;
+}   
+
 #contenido-pr{
 	margin: 0;
 	padding: 10px;
